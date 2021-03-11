@@ -14,3 +14,5 @@ au FileType * set fo-=c fo-=r fo-=o
 
 filetype plugin on
 syntax on
+
+set ttimeoutlen=10
